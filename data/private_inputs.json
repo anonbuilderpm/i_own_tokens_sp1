@@ -1,0 +1,28 @@
+{
+  "signed_messages": [
+    {
+      "signature": "0x3c1ec93b0096ea6fc26230cb0ec4b3fd6450b301057a94684cd10c05b2bbf7ca7060b6b407a98d4e1231cb60bf6b6b4353199ca109ee246af10f30590917fc991b",
+      "balance": 1000,
+      "inclusion_branches": {
+        "index": 0,
+        "proof": [
+          "c6bb9e5f764833a61ab94cc10b4b4b670de6080c490d6bd95f790f1c03561184",
+          "c40a7dff609df43e7bd935e2d14d900f506fc334f7325fa5774dbdd1377e96a6",
+          "c167a29b86b94a4aeb8aadfad4ae75120a0467631aceb6916ff615664f2c1522"
+        ]
+      }
+    },
+    {
+      "signature": "0x1f90d45613de741cead148f5de7e242f7f9411a3d6a2decd40c144bd5b19e3232f529d39c4dae0360b029e4386026f47e7f5ab403c17c5e9a5eb43c8d3e508ba1c",
+      "balance": 1500,
+      "inclusion_branches": {
+        "index": 3,
+        "proof": [
+          "907c75a61dbf259fcdd5b322d24eeb4c7d653d93bcd33a50d102b0787f0003ad",
+          "8238cf2642076f8e643176273da958e2a4a7c0d1b392115ed6b8f69c5130410a",
+          "c167a29b86b94a4aeb8aadfad4ae75120a0467631aceb6916ff615664f2c1522"
+        ]
+      }
+    }
+  ]
+} 
